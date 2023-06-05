@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: page-fullwidth
 #
 # Content
 #
-subheadline: "Video & Music Player"
-title: "Play Audio & Video with media&shy;element.js"
-teaser: "Do you like music? Or are you a podcaster? Do you want to stream your videos in a nice player? Than you likely will like the integration of <em>mediaelement.js</em>. It enables you to play music and stream video in a consistent player that looks in each browser delicious. It even works in IE6-8."
+subheadline: "My Music Wonderland"
+title: "Original Musics"
+teaser: "I started to make original musics in 2020, and I have learnt composing, mixing, mastering, recording myself. I am expert in using DAW such as Cubase, FLstudio and plugins such as Waves, Fabfilter, Ozone9 and software instruments such as Ample Guitar, ADD Drum, Lass Strings etc. Search <em>Danny zhou</em> on all major platforms, my original musics are there waiting to be discovered!"
 categories:
   - design
 tags:
@@ -24,50 +24,309 @@ image:
     caption_url: https://blaz.photography/
 mediaplayer: true
 ---
-[mediaelement.js][1] is like magic. It's browser and device support is perfect. To activate the video or audio player just set the following variable in front matter to `true`.
+This post contains brief introduction of my original musics. Here you can listen to it and if you like them, please head to the links below whatever you use and give them a like :). 
 
-~~~
-mediaplayer: true
-~~~
-
-To use the player just use some HTML5-magic like...
-
-{% highlight html %}
-<audio src="http://path-to-file.com/music.mp3" type="audio/mp3" controls="controls"></audio>
-{% endhighlight %}
-
-All possible functions and how to use *mediaelement.js* is well-documented on the [players website][1].
++ [Youtube Music](https://music.youtube.com/channel/UCbayzsZvzQpeme-GcBZSrbg?feature=share)
++ [QQ Music](https://y.qq.com/n/ryqq/singer/004EZLJs4Rf0RB)
++ [Netnease Music](https://music.163.com/#/artist?id=34439602)
++ [Spotify](https://open.spotify.com/artist/0738H9pBFjEP2u9QXO2skG?si=EZ_ENjW1STa-ipNBdxsEFg)
 
 
+## Music Pieces
 
-## »Music From All Around The World«
+### »Voyage of Dream«
 
-[»Music From All Around The World«][5] is a compilation curated by Jeannette Corneille and Moritz "mo." Sauer for [Phlow-Magazine.com][4]. Cover [Artwork designed by Jeannette Corneille][1]. All tracks were released under a [creative commons licence][2].
++ Youtube music [Link](https://music.youtube.com/watch?v=poRYCzeMkZc&feature=share).
 
-### B-Ju - »Philly Run«
+Sailing in the night sky, hoping to see the sunrise, enduring the hardships, the down is yet to come. Let the stars lead the way, the beacons shining in the dark, grab the hope, and continue to glide, the horizon is calling ahead.
 
-<audio src="http://archive.org/download/music_from_all_around_the_world/13._music_from_all_around_the_world_-_b-ju_-_philly_run.mp3" type="audio/mp3" controls="controls"></audio>
+Combining Funk and Pop, ***Voyage of Dream*** charts the journey from disorientation to finding yourself in a jumpy shuffle beat.
 
-### Comfort Fit - »Freeze The Cut«
+<audio src="https://ass5bucket.s3.amazonaws.com/VoyageOfDream.mp3" type="audio/mp3" controls="controls"></audio>
 
-<audio src="http://archive.org/download/music_from_all_around_the_world/05._music_from_all_around_the_world_-_comfort_fit_-_freeze_the_cut_opolopos_emotional_draft_remix.mp3" type="audio/mp3" controls="controls"></audio>
+```
+Voyage of dream
+ 
+Producer: Danny
+Lyrics by: Danny
+Composed by: Danny
+Mixed by: Danny
+Mastered by: Danny
+ 
+In the dark of night
+The stars are only spot
+Lost in dreams and lost in time
+A voyage without rhyme
+ 
+Gazing up to sky
+I seek the truth to thrive
+Every spark makes dream take flight
+Seizing to dim light
+ 
+In the ship of dream I sail
+When the hopes are high and never frail
+With the compass of the heart
+My hopes and fears side by side
+Through the storm, through the rapid tide, 
+through the rough through the tough with the stars as my guide
+As I follow life's flow
+I will carry on to see the down
+ 
+Sometimes I lose the way
+Suffer from my dismay
+A thousand dream that fade in time
+Lost in the endless night
+ 
+Whisper to the wind
+Hope to find a clue
+Lost at sea no land in sight
+In the abyss of despair
+ 
+In the ship of dream I sail
+Lost direction but with steady mind
+A beacon in the dark it shines
+Promising a brand new day will come
+Through the silence through the cold 
+through the fear through the old with the stars as my guide
+listening to the song of star
+In the melody
+Where the map belongs
+ 
+In the ship of dream I glide
+With the sunrise as my final pride
+The course is clear the horizon's here
+Sailing into the place where dream resides
+Through the down through the gloominess 
+through the joy through the cheer with star as my guide
+sunrise comes after the night
+heading into the future
+where the dream resides
+ 
+In the ship of dream I sail
+Lost direction but with steady mind
+A beacon in the dark it shines
+Promising a brand new day will come
+Through the silence through the cold 
+through the fear through the old with the stars as my guide
+listening to the song of star
+In the melody
+Where the map belong
 
-### The Black Atlantic - »Dandelion«
+The storm the tide
+ will never stop my try
+The silence the fear
+ will never be the barrier
+The stars they shine
+Brighten the lonesome night
+The destination is in sight I head toward the future
+ 
+The truth the dream
+Will lead my way ahead
+The beacons they glint
+Show the way to the sunrise
+Horizon is calling
+Breaking the endless night
+The voyage hasn't over yet
+Try to let passion fly, sailing into the sun
+ 
+The storm the tide, will never stop my try 
+(In the ship of dreams I glide)
+The silence the fear, will never be the barrier 
+(With the sunrise as my final pride)
+The stars they shine, brighten the lonesome night 
+(The course is clear the horizon's here)
+The destination is in sight, I head toward the future 
+(Sailing into the place where dream resides)
+The truth the dream, will lead my way ahead 
+(Through the down through the gloominess)
+The beacons they glint, show the way to the sunrise 
+(Through the joy through the cheer with star as my guide)
+Horizon is calling, breaking the endless night 
+(Sunrise comes after the night)
+The voyage hasn't over yet, try to let passion fly, sailing into the sun 
+(heading into the future, where the dream resides)
+```
+### »Still Wait«
 
-<audio src="http://archive.org/download/music_from_all_around_the_world/02._music_from_all_around_the_world_-_the_black_atlantic_-_dandelion.mp3" type="audio/mp3" controls="controls"></audio>
++ Youtube Music [Link](https://music.youtube.com/watch?v=T0WtZm0vYoE&feature=share).
 
-[Download Compilation ›](https://archive.org/details/music_from_all_around_the_world)
-{: .t30 .button .radius}
+The song ***Still Wait*** was created against the backdrop of the `Covid-19` pandemic. In 2022, the third year of the pandemic, lovers and friends can't get together and can only communicate online through the Internet. While this may ease our desire to see each other, it does not substantially solve the problem. We can only keep the vision of meeting, believe that we will meet again in the near future. 
+
+It is my great honor to invite *Shahab Ahmed* from Pakistan as the co-lyricist of this song, to work with me on the production of this song. He has experienced the epidemic more than any other person, and he has deep feelings about it. Two consecutive years of separation until graduation, the end of the epidemic is far from in sight... When will we see each other again?
 
 
+<audio src="https://ass5bucket.s3.amazonaws.com/StillWait_Master_final.mp3" type="audio/mp3" controls="controls"></audio>
 
- [1]: http://mediaelementjs.com/
- [2]: http://jcorneille.de/
- [3]: www.creativecommons.org/licenses/by-nc-nd/3.0/
- [4]: http://phlow-magazine.com/
- [5]: https://archive.org/details/music_from_all_around_the_world
- [6]: #
- [7]: #
- [8]: #
- [9]: #
- [10]: #
+```
+Still Wait
+
+Lyrics by: Shahab Ahmed/Danny hao
+Composed by: Danny hao
+Arranged by: Danny hao
+Produced by: Danny hao/Shahab Ahmed
+
+I know you can feel that something
+that is hurting inside your emotion
+The reminders of when we used to meet
+still talking about different things
+
+Those were the simpler times
+but now we are thousand miles away
+sometimes it’s getting hard
+How long would you be in this pain
+
+The two of us seem sad
+the sorrow of yearning
+when we'll see each other once more
+when will that come to pass
+
+We can reason as one
+But we can't be together
+It isn't equal to emotion 
+Cuz this doesn't feel real
+still wait
+
+The longing has affected us
+But the world just keep separating us
+Somewhere, we are waiting outside there
+We are hoping our dream comes true
+
+Memories still shines
+But the bridge is broken down we can’t
+Go back to good old days
+How long would you be in this pain
+
+The two of us seem sad
+the sorrow of yearning
+When we’ll see each other once more
+When will that come to pass
+
+We can reason as one
+But we can't be together
+It isn't equal to emotion
+Cuz this doesn't feel real
+Still waiting
+
+All right, we should let it go
+All the time, don't you worry
+Our paths will keep crossing once more
+ Someday
+
+The two of us seem sad
+The sorrow of yearning
+Isolation take control of us
+When shall we meet again
+
+We can reason as one
+But we can't be together
+It isn't equal to emotion 
+Cuz this doesn't feel real
+
+Although we both seem sad
+the sorrow of yearning
+We will see each other once again
+Just in the near future
+
+We can reason as one
+But we can't be together
+No matter how long this would proceed
+Just in the near future
+Still wait
+```
+
+## »执剑说«
+This is a Chinese song which depicts an ancient swordsman who seeks truth and meaning of life through hardships and adventures. He left home at a young age with the ambition to go anywhere with a sword and have a strong sense of justice and ready to help the weak. However, after dealing with normal people he found that the heart of human kind is actually selfish. After getting hurt and thriving from dirty tricks with bureaucrats and rivals, he decided to throw away the burden and face the endeavors himself. 
+
++ Youtube Music [Link](https://music.youtube.com/watch?v=LJFsCFxB6Is&feature=share).
+
+<audio src="https://ass5bucket.s3.amazonaws.com/%E6%89%A7%E5%89%91%E8%AF%B4Demo.mp3" type="audio/mp3" controls="controls"></audio>
+
+```
+执剑说
+
+作词: Danny周闻浩
+作曲: Danny周闻浩
+编曲/混音: Danny周闻浩
+
+江湖
+情仇酒一壶
+尘路
+以天地为庐
+回首
+叹半生孤独
+翘盼
+看前路无助
+
+萧萧月光凄寒
+剑光冷煞
+斩破泪与茶
+纵然桃花落下
+梦飘向天涯
+
+绝笔纸上天下
+浪迹天涯
+故国千里画
+归来蜕变仰望
+只剩下彷徨
+
+尘世如潮 难做逍遥
+不谙虞与诈
+古道残垣 枯树昏鸦
+断肠走天涯
+江湖煮酒 难辨真假
+比不过清茶
+奈何真真假假
+不如寻常人家
+天涯消逝了牵挂
+
+故国
+含笑自漂泊
+灯火
+人世尽蹉跎
+携剑
+千里争雄霸
+策马
+抛却了牵挂
+
+漫漫长歌婉转
+剑气凛然
+饮尽了沧桑
+携星茫醉一场
+笑把红尘忘
+
+大鹏扶摇直上
+簸却沧溟
+未可轻年少
+从此豪杰可当
+轻狂又何妨
+
+尘世如潮 难做逍遥
+不谙虞与诈
+古道残垣 枯树昏鸦
+断肠走天涯
+江湖煮酒 难辨真假
+比不过清茶
+奈何真真假假
+不如寻常人家
+天涯消逝了牵挂
+
+尘世如潮 醉时逍遥
+管他虞与诈
+鲜衣怒马 无甚牵挂
+不负此年华
+江湖煮酒 无谓真假
+清醒时自折花
+管他真真假假
+我只纵横天下
+执剑说拭血论茶
+
+尘世如潮 醉时逍遥
+管他虞与诈
+鲜衣怒马 无甚牵挂
+不负此年华
+江湖煮酒 无谓真假
+清醒时自折花
+管他真真假假
+我只纵横天下
+执剑说拭血论茶
+```

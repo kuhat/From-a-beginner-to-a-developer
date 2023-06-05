@@ -14,18 +14,21 @@ widget1:
   text: ' • Software Engineer Intern </br>@ <em>Techsmith</em>
   </br><div>• MS in Computer Science</div><div> @ <em>Boston University 2024</em></div></br>
   <div>• BS in Information & Computing Science </div> <div> @ <em>University of Liverpool 2022</em></div>'
+  more: Linkedin >
 widget2:
   title: "Musician"
   url: 'https://y.qq.com/n/ryqq/singer/004EZLJs4Rf0RB'
   text: 'Composer, Singer, Guitarist, Saxophonist.<br/>• Saxophone Principal </br> @ <em>Symphony Orchestra of XJTLU</em> <br/></p>
   • Saxophonist </br> @ <em>Concert Band of BU</em><br/></p>• Independent Musician </br> @ Tencent Music & Netease Music </br>'
   video: '<a href="#" data-reveal-id="videoModal"><img src="https://ass5bucket.s3.amazonaws.com/Music.jpg" width="302" height="182" alt=""/></a>'
+  more: Original Musics >
 widget3:
   title: "Traveller"
   url: 'https://www.instagram.com/danny_hao529/'
   image: gallery-example-3.jpg
-  text: '<em>Always on the road</em></br> • Never stop my pace  </p>
+  text: '<em>Always on the road</em></br> • Never stop my pace  </br>
   • Photographer </br> </p>• Always explore the beauty of nature </br>'
+  more: Instagram >
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -53,9 +56,6 @@ permalink: /index.html
 #
 homepage: true
 ---
-<div> This is a test</div>
-test 123
-+ set 0000
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">

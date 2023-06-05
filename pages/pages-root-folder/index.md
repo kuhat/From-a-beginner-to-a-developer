@@ -8,20 +8,24 @@ layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Software Engineer"
+  url: 'https://www.linkedin.com/in/wenhaozhou1802/'
   image: widget-1-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: ' • Software Engineer Intern </br>@ <em>Techsmith</em>
+  </br><div>• MS in Computer Science</div><div> @ <em>Boston University 2024</em></div></br>
+  <div>• BS in Information & Computing Science </div> <div> @ <em>University of Liverpool 2022</em></div>'
 widget2:
-  title: "Why use this theme?"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
-  text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Musician"
+  url: 'https://y.qq.com/n/ryqq/singer/004EZLJs4Rf0RB'
+  text: 'Composer, Singer, Guitarist, Saxophonist.<br/>• Saxophone Principal </br> @ <em>Symphony Orchestra of XJTLU</em> <br/></p>
+  • Saxophonist </br> @ <em>Concert Band of BU</em><br/></p>• Independent Musician </br> @ Tencent Music & Netease Music </br>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://ass5bucket.s3.amazonaws.com/Music.jpg" width="302" height="182" alt=""/></a>'
 widget3:
-  title: "Download Theme"
-  url: 'https://github.com/Phlow/feeling-responsive'
-  image: widget-github-303x182.jpg
-  text: '<em>Feeling Responsive</em> is free and licensed under a MIT License. Make it your own and start building. The code is well-documented and explains you how it works.'
+  title: "Traveller"
+  url: 'https://www.instagram.com/danny_hao529/'
+  image: gallery-example-3.jpg
+  text: '<em>Always on the road</em></br> • Never stop my pace  </p>
+  • Photographer </br> </p>• Always explore the beauty of nature </br>'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -33,9 +37,15 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: https://ass5bucket.s3.amazonaws.com/Resume_Wenhao_Zhou_2024_SDE.pdf
+  text: My Tech Resume ›
   style: alert
+
+call:
+  url: https://ass5bucket.s3.amazonaws.com/music_resume.pdf
+  text: My Music Resume ›
+  style: alert
+
 permalink: /index.html
 #
 # This is a nasty hack to make the navigation highlight
@@ -43,10 +53,13 @@ permalink: /index.html
 #
 homepage: true
 ---
+<div> This is a test</div>
+test 123
++ set 0000
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
+    <iframe width="1280" height="720" src="https://space.bilibili.com/77015722?spm_id_from=333.999.0.0" frameborder="0" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>

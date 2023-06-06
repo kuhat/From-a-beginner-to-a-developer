@@ -3,13 +3,17 @@
   side: left
 
 - title: Music
-  url: "/getting-started/"
+  url: "/music/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Web Development"
+  url: "/webdev/"
   side: left
   dropdown:
+  - title: "Django"
+    url: "/tech/webdev/Django"
+  - title: "React"
+    url: "/tech/webdev/React"
   - title: "Grid & Colors"
     url: "/design/grid/"
   - title: "Typography"

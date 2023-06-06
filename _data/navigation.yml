@@ -2,7 +2,7 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Music
   url: "/getting-started/"
   side: left
 
@@ -31,24 +31,36 @@
   - title: "Portfolio"
     url: "/design/portfolio/"
 
-- title: "Header Styles"
+- title: "Java Development"
   url: "/headers/"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
+  - title: "Spring"
+    url: "/tech/java/Spring/"
+  - title: "Mybatis"
+    url: "/tech/java/Mybatis/"
+  - title: "Spring Boot"
+    url: "/tech/java/SpringBoot/"
+  - title: "Maven"
+    url: "/tech/java/Maven/"
   - title: "Header With Text"
     url: "/design/header-with-text/"
   - title: "No Header"
     url: "/design/no-header/"
   - title: "No Header but Image"
     url: "/design/no-header-but-image/"
+
+- title: "Cloud Native"
+  url: "/cloudnative/"
+  side: left
+  dropdown:
+  - title: "Docker"
+    url: /tech/cloudnative/docker/
+  - title: "Kubernetes"
+    url: /tech/cloudnative/kubernetes/
+  - title: "Helm"
+    url: /tech/cloudnative/helm/
+
 
 - title: Documentation
   url: "/documentation/"

@@ -4,9 +4,10 @@ subheadline:  "Introduce to Kubernetes"
 title:  "Kubernetes"
 teaser: "This is a guide to introduce the concepts of Kubernetes (K8s) and its basic uses."
 categories:
-    - design
+    - tech
+    - cloudnative
 tags:
-    - design
+    - cloudnative
     - background color
     - header
 header: no

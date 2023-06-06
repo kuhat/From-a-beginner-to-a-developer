@@ -1,37 +1,37 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: https://github.com/kuhat
   class: icon-github
-  title: Code und mehr...
+  title: Code and projects on Github
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: https://music.youtube.com/channel/UCbayzsZvzQpeme-GcBZSrbg?feature=share
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: Original Music on Youtube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: https://twitter.com/zwh44555299
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Stories on Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+# - name: Mixcloud
+#   url: http://www.mixcloud.com/phlow/
+#   class: icon-cloud
+#   title: "Mixe, was sonst?"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+  url: https://www.facebook.com/profile.php?id=100037874952598
+  class: icon-facebook
+  title: "Stories on Facebook"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
 #   class: icon-soundcloud
 #   title: ""
 
-# - name: Instagram
-#   url: http://instagram.com/
-#   class: icon-instagram
-#   title: ""
+- name: Instagram
+  url: https://www.instagram.com/danny_hao529/
+  class: icon-instagram
+  title: "Puctures and stories on Instagram"
 
 # - name: Pinterest
 #   url: http://www.pinterest.com/

@@ -5,7 +5,7 @@ layout: page-fullwidth
 #
 subheadline: "My Music Wonderland"
 title: "Original Musics"
-teaser: "I started to make original musics in 2020, and I have learnt composing, mixing, mastering, recording myself. I am expert in using DAW such as Cubase, FLstudio and plugins such as Waves, Fabfilter, Ozone9 and software instruments such as Ample Guitar, ADD Drum, Lass Strings etc. Search <em>Danny zhou</em> on all major platforms, my original musics are there waiting to be discovered!"
+teaser: "I started to make original musics in 2020, and I have learnt composing, mixing, mastering, recording myself. I am an expert in using DAW such as Cubase, FLstudio and plugins such as Waves, Fabfilter, Ozone9 and software instruments such as Ample Guitar, ADD Drum, Lass Strings etc. Search <em>Danny zhou</em> on all major platforms, my original musics are there waiting to be discovered!"
 categories:
   - design
 tags:
@@ -18,9 +18,9 @@ tags:
 header: no
 image:
     title: mediaplayer_js-title.jpg
-    thumb: mediaplayer_js-thumb.jpg
-    homepage: mediaplayer_js-home.jpg
-    caption: Photo by Corey Blaz
+    thumb: mediaplayer_js-title.jpg
+    homepage: mediaplayer_js-title.jpg
+    caption: Photo by Danny
     caption_url: https://blaz.photography/
 mediaplayer: true
 ---

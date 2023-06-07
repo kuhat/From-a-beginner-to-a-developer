@@ -26,7 +26,7 @@ author: Wenhao Zhou
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
 url: 'https://kuhat.github.io'
-baseurl: '/danny-blog'
+baseurl: '/From-a-beginner-to-a-developer'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages

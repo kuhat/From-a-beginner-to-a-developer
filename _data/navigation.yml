@@ -13,17 +13,13 @@
   - title: "Django"
     url: "/tech/webdev/Django"
   - title: "React"
-    url: "/tech/webdev/React"
-  - title: "Grid & Colors"
-    url: "/design/grid/"
+    url: "/tech/webdev/react"
+  - title: "Git"
+    url: "/tech/webdev/git"
   - title: "Typography"
     url: "/design/typography/typography/"
   - title: "Page/Post"
     url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
   - title: "Page Full-Width"
     url: "/design/page-fullwidth/"
   - title: "Blog-Page"
@@ -47,6 +43,8 @@
     url: "/tech/java/SpringBoot/"
   - title: "Maven"
     url: "/tech/java/Maven/"
+  - title: "JVM"
+    url: "/tech/java/JVM"
   - title: "Header With Text"
     url: "/design/header-with-text/"
   - title: "No Header"
@@ -66,14 +64,14 @@
     url: /tech/cloudnative/helm/
 
 
-- title: Documentation
+- title: projects
   url: "/documentation/"
   side: left
   dropdown:
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: "Python Socket Programming"
+    url: "/tech/projects/pythonSocket/"
+  - title: "Python Routing Algorithm"
+    url: "/tech/projects/routingAlgo/"
 
 - title: Blog
   url: "/blog/"

@@ -5,7 +5,7 @@ subheadline         : "Foundation of Java virture machine"
 teaser              : "<emJVM</em> is the core concepts in the backend of Java. Understanding the basic of it is one of software engineer's essential requirements."
 header:
    image_fullwidth  : "header_roadmap_3.jpg"
-permalink           : "/roadmap/"
+permalink           : "/tech/java/JVM"
 ---
 
 This post demonstrates the basic concept of JVM and memory recycling technique.

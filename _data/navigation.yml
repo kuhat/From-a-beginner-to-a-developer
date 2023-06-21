@@ -62,6 +62,8 @@
     url: /tech/cloudnative/kubernetes/
   - title: "Helm"
     url: /tech/cloudnative/Helm/
+  - title: "Flux"
+    url: /tech/cloudnative/Flux/
 
 
 - title: projects
